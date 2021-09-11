@@ -50,7 +50,7 @@ img {
     text-align: center;
     
     overflow: hidden;
-    background-color: #D89616;
+    
     
 }
 
@@ -71,7 +71,7 @@ img {
     transform: translateX(-50%);
     height: 2px;
     width: 50px;
-    
+    background-color: #D89616;
     margin-top: 0.2em;
 
 }
